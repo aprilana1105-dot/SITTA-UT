@@ -41,6 +41,7 @@ var dataPengguna = [
     lokasi: "Pusat"
   },
   {
+    id: 6,
     nama: "Putra",
     email: "putra@ut.ac.id",
     password: "putra123",
