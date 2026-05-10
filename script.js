@@ -95,7 +95,7 @@ function tambahStok() {
         jenisBarang: jenis.value,
         edisi: edisi.value,
         stok: stok.value,
-        cover: "assets/img/pemrograman_berbasisweb.jpeg" 
+        cover: "img/pemrograman_berbasisweb.jpeg" 
     });
 
     loadStok();
