@@ -39,7 +39,14 @@ var dataPengguna = [
     password: "admin123",
     role: "Administrator",
     lokasi: "Pusat"
-  }
+  },
+  {
+    nama: "Putra",
+    email: "putra@ut.ac.id",
+    password: "putra123",
+    role: "PRODI",
+  lokasi: "UPBJJ Surabaya"
+}
 ];
 
 var dataBahanAjar = [
